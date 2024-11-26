@@ -1,6 +1,6 @@
-# A detailed course to undestand nextjs
+# A detailed  undestanding of  nextjs
 
-This long video was designed to give you an indepth understanding about latest nextjs and how it works. 
+
 
 ## Tech Stack
 - Nextjs
